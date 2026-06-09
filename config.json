@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "test-driven-bug-hunt",
+      "title": "Test-Driven Bug Hunt in Python",
+      "description": "Write unit tests first, then debug and fix a buggy Python program using only the standard library.",
+      "path": "assignments/test-driven-bug-hunt",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
